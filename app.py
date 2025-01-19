@@ -1,5 +1,5 @@
 from flask import Flask # Flask is class and flask is a module
-
+# Flask Web Server Created
 app=Flask(__name__)
 
 @app.route("/")
